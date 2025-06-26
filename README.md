@@ -1,5 +1,5 @@
 
-# CS253_Car_Rental_System
+Car_Rental_System
 ##Instructions to Run
 - ⁠Save the files in a directory, say ⁠ x ⁠.
 - ⁠Open your terminal and go to directory ⁠ x ⁠.
