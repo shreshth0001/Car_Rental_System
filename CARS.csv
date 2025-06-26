@@ -1,0 +1,7 @@
+*CARS DATABASE*
+Car_Reg | Car_Model| Available | Damage | Rented_To_ID | Rent | Rented_Date | Required_Score
+00000001,Maruti Swift,F,89,C006,8000,31/01/2004,50
+00000011,Innova,T,22,NULL,9000,NULL,60
+00000010,Honda City,T,22,NULL,7500,NULL,40
+00000100,Maruti 800,T,22,NULL,2000,NULL,90
+00000101,Maruti Zen,T,30,NULL,3000,NULL,85

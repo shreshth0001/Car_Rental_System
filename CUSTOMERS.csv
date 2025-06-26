@@ -1,0 +1,7 @@
+﻿*CUSTOMERS DATABASE*
+Customer_ID | Customer_Name | Customer_Password | Customer_Fine | Customer_Record
+C001,John,John@123,0,7
+C002,Apoorv,Apoorv@123,0,17
+C003,Eve,Eve@123,0,50
+C004,Adam,Adam@123,0,50
+C005,Emma,Emma@123,0,50
