@@ -5,3 +5,5 @@ Car_Reg | Car_Model| Available | Damage | Rented_To_ID | Rent | Rented_Date | Re
 00000010,Honda City,T,22,NULL,7500,NULL,40
 00000100,Maruti 800,T,22,NULL,2000,NULL,90
 00000101,Maruti Zen,T,30,NULL,3000,NULL,85
+
+
